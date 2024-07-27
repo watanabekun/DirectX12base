@@ -62,6 +62,7 @@ ExportedObj/
 x64
 Debug
 Release
+DirectXTex
 
 # Unity3D generated meta files
 *.pidb.meta
